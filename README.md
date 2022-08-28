@@ -1,5 +1,5 @@
 # Kernel Simulator
-Kernel simulator is developed using java language to execute process in operating system using first come first server (FCFS) algorithm. 
+Kernel simulator is developed using java language to execute process in operating system using first come first server (FCFS) scheduling algorithm. 
 ## Language
 Java
 ## Tool 
